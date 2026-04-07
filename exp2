@@ -3,6 +3,7 @@ int main() {
     int age;
     printf("Enter your age: ");
     scanf("%d", &age);
-    printf("Your age is: %d\n", age);
+    printf("Your age is: %d", age);
+    printf("\nREG NO:25331A05I5");
     return 0;
 }
